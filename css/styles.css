@@ -5,8 +5,9 @@
     --color-primary-dark: #31261A;
 }
 /* base styles */
-.body {
+body {
     color: var(--color-primary-dark);
+   font-family: 'Poppins', sans-serif;
 }
 ul {
     list-style: none;
